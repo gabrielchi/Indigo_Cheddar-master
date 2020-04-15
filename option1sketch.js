@@ -13,6 +13,7 @@ let soundVel; //bass
 let soundVel2; //mid
 let soundVel3; //high
 
+
 let bassBars = [];
 let midBars = [];
 let highBars = [];
